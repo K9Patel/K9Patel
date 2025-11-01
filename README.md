@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k9patel" alt="k9patel" /></a> </p> -->
 
-- 🔭 I’m currently working on **DSA,Python, React JS & Node JS **
+- 🔭 I’m currently working on **DSA, Python, React JS & Node JS**
 
 - 📫 How to reach me **knpatel9965@gmail.com**
 
