@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavya Patel</h1>
-<h3 align="center">🚀 Prefinal year CSE student | Aspiring Software Engineer turning ideas into innovation | Building Projects & Solving Problems | Looking for an Internship</h3>
+<h3 align="center">🚀 Prefinal year CSE student |🚀 Aspiring Software Engineer building projects, solving problems and turning ideas into innovation | Looking for an Internship</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k9patel&label=Profile%20views&color=0e75b6&style=flat" alt="k9patel" /> </p>
 
