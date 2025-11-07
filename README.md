@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DSA, Python, React JS & Node JS**
 
-- 📫 How to reach me **knpatel9965@gmail.com**
+- 📫How to reach me **knpatel9965@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
