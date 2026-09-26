@@ -48,8 +48,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k9patel&show_icons=true&locale=en&theme=default" alt="k9patel stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k9patel&show_icons=true&locale=en&layout=compact" alt="k9patel top langs" height="165"/>
+  <img src="https://github-readme-stats-nu-eight-53.vercel.app/api?username=k9patel&show_icons=true&locale=en&theme=default" alt="k9patel stats" height="165"/>
+  <img src="https://github-readme-stats-nu-eight-53.vercel.app/api/top-langs?username=k9patel&show_icons=true&locale=en&layout=compact" alt="k9patel top langs" height="165"/>
 </p>
 
 <p align="center">
