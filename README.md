@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavya Patel</h1>
-<h3 align="center">Pre-final year CSE student | Turning ideas into code | Building projects & solving problems</h3>
+<h3 align="center">Final year CSE student | Turning ideas into code | Building projects & solving problems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=k9patel&label=Profile%20views&color=0e75b6&style=flat" alt="k9patel" />
@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 🔭 Currently working on **DSA, Python, React JS & Node JS**
 - 🌱 Always learning something new in web development & problem solving
-- 💬 Ask me about **DSA, React, Node.js, Python**
+- 💬 Ask me about **DSA, React, Node.js, Python and Machine Learning**
 - 📫 Reach me at **knpatel9965@gmail.com**
 - ⚡ Fun fact: I enjoy turning ideas into working code
 
