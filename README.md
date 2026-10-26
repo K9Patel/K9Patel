@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavya Patel</h1>
+<h1 align="center">HI, I'm Kavya Patel</h1>
 <h3 align="center">Final year CSE student | Turning ideas into code | Building scalable projects </h3>
 
 <p align="center">
